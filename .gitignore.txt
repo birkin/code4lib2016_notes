@@ -1,0 +1,13 @@
+# comments...
+# - project_httpd.conf was often part of django_project_dir -> project_dir -> apache_dir
+#   now I call my wsgi file from a server .conf included into the main httpd.conf file
+# - env is often sibling of project directory
+# wsgi.py is usually part of django_project_dir -> project_dir -> apache_dir
+
+*.pyc
+*httpd.conf
+.DS_Store
+.hg
+.svn
+env
+env*
