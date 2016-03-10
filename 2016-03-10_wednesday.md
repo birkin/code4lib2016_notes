@@ -51,7 +51,7 @@ by [head](http://2016.code4lib.org/Gabriel-Weinberg) of duckduckgo
 
 ---
 
-## lightning talks
+### lightning talks
 
 Sean Aery from Duke -- Finding Aid work
 - sticky title, corresponding series info at top
@@ -133,7 +133,7 @@ fauxbr, etc in Pika
 
 ---
 
-[Community-driven AV Solutions](http://2016.code4lib.org/Free-your-workflows-and-the-rest-will-follow-communitydriven-AV-solutions-through-open-source-workflow-development)
+### [Community-driven AV Solutions](http://2016.code4lib.org/Free-your-workflows-and-the-rest-will-follow-communitydriven-AV-solutions-through-open-source-workflow-development)
 
 by (http://2016.code4lib.org/speakers.html#dinah-handel) and (http://2016.code4lib.org/speakers.html#ashley-blewer)
 
@@ -155,7 +155,7 @@ by (http://2016.code4lib.org/speakers.html#dinah-handel) and (http://2016.code4l
 
 ---
 
-[Indoor-Positioning-Services-Location-Based-Recommendations](http://2016.code4lib.org/Indoor-Positioning-Services-Location-Based-Recommendations)
+### [Indoor-Positioning-Services-Location-Based-Recommendations](http://2016.code4lib.org/Indoor-Positioning-Services-Location-Based-Recommendations)
 by (http://2016.code4lib.org/speakers.html#jim-hahn) from illinois.edu
 
 - can promote e-resources when in stacks
@@ -177,7 +177,7 @@ by (http://2016.code4lib.org/speakers.html#jim-hahn) from illinois.edu
 
 ---
 
-[ArchivesSpaceArchivematicaDSpace-Workflow-Integration](http://2016.code4lib.org/ArchivesSpaceArchivematicaDSpace-Workflow-Integration)
+### [ArchivesSpaceArchivematicaDSpace-Workflow-Integration](http://2016.code4lib.org/ArchivesSpaceArchivematicaDSpace-Workflow-Integration)
 
 by (http://2016.code4lib.org/speakers.html#mike-shallcross) -- univ of michigan
 
@@ -201,7 +201,7 @@ by (http://2016.code4lib.org/speakers.html#mike-shallcross) -- univ of michigan
 
 ---
 
-[Scribe-Toward-a-general-framework-for-community-transcription](http://2016.code4lib.org/Scribe-Toward-a-general-framework-for-community-transcription)
+### [Scribe-Toward-a-general-framework-for-community-transcription](http://2016.code4lib.org/Scribe-Toward-a-general-framework-for-community-transcription)
 
 by (http://2016.code4lib.org/speakers.html#paul-beaudoin) of NYPL Labs
 
@@ -224,7 +224,7 @@ by (http://2016.code4lib.org/speakers.html#paul-beaudoin) of NYPL Labs
 
 ---
 
-[Issues-to-consider-before-pushing-out-an-Open-Source-Project](http://2016.code4lib.org/Issues-to-consider-before-pushing-out-an-Open-Source-Project)
+### [Issues-to-consider-before-pushing-out-an-Open-Source-Project](http://2016.code4lib.org/Issues-to-consider-before-pushing-out-an-Open-Source-Project)
 
 by Edward M. Corrado -- U.of Alabama
 
@@ -240,3 +240,8 @@ by Edward M. Corrado -- U.of Alabama
 - [beforeOSS](https://docs.google.com/document/d/1qeopBc1X8CQ7gy4uk6oH3XHLt5hIHzJBUKaQY-PWOEQ/edit#heading=h.d5q7ied5yy7w)
 
 ---
+
+THE END -- GREAT CONFERENCE!
+
+---
+
