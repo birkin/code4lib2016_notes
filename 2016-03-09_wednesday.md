@@ -233,7 +233,7 @@ by [david-naughton](http://2016.code4lib.org/speakers.html#david-naughton) -- u.
 
 - [Janus](https://github.com/mozilla/node-janus)
 
-- small application; doesn't do much
+- "small application; doesn't do much" -- his words
 
 - common problem
     - many search targets
